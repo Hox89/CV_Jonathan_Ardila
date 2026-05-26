@@ -1,12 +1,11 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
+## JONATHAN ARDILA VARGAS
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [correo@ejemplo.com](jonathan-av22@hotmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
