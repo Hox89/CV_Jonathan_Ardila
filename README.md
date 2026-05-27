@@ -22,7 +22,7 @@
 - GESTOR DE RECOLECCIÓN DE INFORMACIÓN: Visitar y recolectar información de las farmacias en las ciudades de Bogotá, Boyacá y Villavicencio, revisar y arreglar los datos recolectados, realizar informes semanales, reportar novedades y abrir convenios con farmacias independientes.
 
 ### **CENTRO NACIONAL DE CONSULTORIA S.A** _(2014 - 2016)_
--CODIFICADOR Y ANALISTA:  Transformar las respuestas de las encuestas en datos estadisticos limpios y claros, leyendo los comentarios de la gente para asignarles codigos numericos y agrupar opiniones similares en categorias. Revisar las bases de datos para corregir errores, controlar la calidad del trabajo de los encuestadores y generar las tablas estadisticas finales que ayudan a la empresa a identificar las tendencias del mercado y la opinion publica.
+- CODIFICADOR Y ANALISTA:  Transformar las respuestas de las encuestas en datos estadisticos limpios y claros, leyendo los comentarios de la gente para asignarles codigos numericos y agrupar opiniones similares en categorias. Revisar las bases de datos para corregir errores, controlar la calidad del trabajo de los encuestadores y generar las tablas estadisticas finales que ayudan a la empresa a identificar las tendencias del mercado y la opinion publica.
 
 
 
