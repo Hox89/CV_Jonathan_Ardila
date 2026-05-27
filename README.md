@@ -14,7 +14,7 @@
 
 ### **JACAB INDUSTRIA METALICA** _(2021 - 2023)_
 - AUXILIAR ADMINISTRATIVO: Responsable de la gestión de órdenes de compra, remisiones de proveedores y facturación, además de la recepción e inventario de materiales. Fortalecimiento de habilidades en organización, control de inventarios y manejo documental, contribuyendo a la eficiencia de los procesos administrativos. .
-- 
+  
 ### **NUEVA TRANSPORTADORA SIGLO XXIA** _(2021 - 2021)_
 - AUXILIAR DE ARCHIVO-INDEXADOR: Responsable de la digitación e ingreso de información en sistemas, verificando la exactitud de los datos y manteniendo bases actualizadas; clasificación e indexación de documentos mediante la asignación de códigos y palabras clave para facilitar su consulta; gestión de archivo físico y digital, organizando expedientes, digitalizando documentos y asegurando su adecuada conservación y confidencialidad.
 
